@@ -6,3 +6,4 @@
 6. Because it make things possible
 7. Because it has a screen
 8. Because I can't understand it
+9. Because it is what it is
